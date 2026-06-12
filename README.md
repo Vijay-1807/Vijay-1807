@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:d3d3d3&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;RAG+Pipelines+%7C+LLM+Integration+%7C+Vector+Search;Real-Time+Computer+Vision+%26+Anomaly+Detection;MERN+Stack+%7C+Flask+%7C+Firebase+%7C+Docker;Actively+Seeking+Full-Time+%26+Internship+Roles" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;RAG+Pipelines+%7C+LLM+Integration+%7C+Vector+Search;Real-Time+Computer+Vision+%26+Anomaly+Detection;MERN+Stack+%7C+Flask+%7C+Firebase+%7C+Docker;Actively+Seeking+Full-Time+%26+Internship+Roles">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;RAG+Pipelines+%7C+LLM+Integration+%7C+Vector+Search;Real-Time+Computer+Vision+%26+Anomaly+Detection;MERN+Stack+%7C+Flask+%7C+Firebase+%7C+Docker;Actively+Seeking+Full-Time+%26+Internship+Roles">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;RAG+Pipelines+%7C+LLM+Integration+%7C+Vector+Search;Real-Time+Computer+Vision+%26+Anomaly+Detection;MERN+Stack+%7C+Flask+%7C+Firebase+%7C+Docker;Actively+Seeking+Full-Time+%26+Internship+Roles" />
+  </picture>
 </p>
 
 <p align="center">
@@ -225,7 +233,11 @@ Groq API powers the integrated AI operator chatbot. Multi-channel alerting cover
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 
@@ -299,5 +311,9 @@ open_to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:d3d3d3&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=120&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=120&section=footer" width="100%"/>
+  </picture>
 </p>
