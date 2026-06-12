@@ -213,7 +213,7 @@ Groq API powers the integrated AI operator chatbot. Multi-channel alerting cover
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-1807&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-1807&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
@@ -229,10 +229,10 @@ Groq API powers the integrated AI operator chatbot. Multi-channel alerting cover
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚙️ *To enable your personal snake: add `.github/workflows/snake.yml` to your profile repo — see instructions below.*
+
 
 ---
 
