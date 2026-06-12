@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:d3d3d3&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C100:d3d3d3&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000%2C100:808080&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000%2C100:808080&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17" width="100%"/>
   </picture>
 </p>
 
@@ -312,8 +312,8 @@ open_to:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:d3d3d3&height=120&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=120&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:808080&height=120&section=footer" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C100:d3d3d3&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000%2C100:808080&height=120&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000%2C100:808080&height=120&section=footer" width="100%"/>
   </picture>
 </p>
