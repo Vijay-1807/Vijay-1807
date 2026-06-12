@@ -40,7 +40,7 @@
 
 He builds production-grade systems at the intersection of AI engineering and full stack development — from **RAG pipelines** with LLM integration and multilingual interfaces, to **real-time computer vision** systems running at 30 FPS with custom-trained YOLO models.
 
-His engineering workflow is AI-native: daily use of **Cursor, Claude Code, and GitHub Copilot** for accelerated development cycles. He writes clean, scalable code across the full stack — Python, React.js, Node.js, Flask, MongoDB, and Firebase.
+His engineering workflow is AI-native: daily use of **Cursor, Claude Code, and GitHub Copilot**. He writes clean, scalable code across the full stack — Python, React.js, Node.js, Flask, MongoDB, and Firebase.
 
 **Actively seeking** AI Engineering, Full Stack, and Data Science roles.
 
@@ -116,7 +116,7 @@ GPU-optimised AI surveillance system using custom-trained **YOLO26m** for object
 | **Impact** | Real-time threat detection with IP/USB camera management |
 | **Repository** | [github.com/Vijay-1807](https://github.com/Vijay-1807) |
 
-Groq API powers the integrated AI operator chatbot. Multi-channel alerting covers in-app, email, and webhook notifications. Full-stack React dashboard provides live feed management and incident review.
+Groq API powers the integrated AI operator chatbot. Multi-channel alerting covers in-app, email, and webhook notifications.
 
 </details>
 
@@ -183,9 +183,9 @@ Groq API powers the integrated AI operator chatbot. Multi-channel alerting cover
 
 **Harvard University**
 <p>
-<img src="https://img.shields.io/badge/CS50X%20–%20Intro%20to%20Computer%20Science-000000?style=for-the-badge&logo=edx&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/CS50X%20–%20Intro%20to%20CS-000000?style=for-the-badge&logo=edx&logoColor=white&labelColor=111111"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CS50P%20–%20Programming%20in%20Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/CS50P%20–%20Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
 </p>
 
 **NPTEL**
@@ -213,7 +213,7 @@ Groq API powers the integrated AI operator chatbot. Multi-channel alerting cover
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-1807&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-1807&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%"/>
 </p>
 
 ---
@@ -229,12 +229,10 @@ Groq API powers the integrated AI operator chatbot. Multi-channel alerting cover
 ## ◈ Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+
+> ⚙️ *To enable your personal snake: add `.github/workflows/snake.yml` to your profile repo — see instructions below.*
 
 ---
 
@@ -255,7 +253,6 @@ learning:
   - Advanced RAG architectures and multi-agent LLM workflows
   - Cloud-native AI deployment on Azure
   - MLOps — model versioning, monitoring, CI/CD
-  - System design for distributed applications
 
 building:
   - AI-powered full stack apps with LLM backends
