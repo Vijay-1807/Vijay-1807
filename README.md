@@ -1,60 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=220&section=header&text=BONTHA%20VIJAY&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=18&stroke=ffffff&strokeWidth=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Bontha%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descAlignY=62&descAlign=50&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;RAG+Pipelines+%7C+LLM+Integration+%7C+Vector+Search;Real-Time+Computer+Vision+%26+Anomaly+Detection;MERN+Stack+%7C+Flask+%7C+Firebase+%7C+Docker;Open+To+Internships+%26+Collaborations" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-ffffff?style=for-the-badge&labelColor=000000&color=ffffff&logoColor=000000"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.3%20%2F%2010.0-ffffff?style=for-the-badge&labelColor=000000&color=ffffff"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/VVITU-Guntur%2C%20AP-ffffff?style=for-the-badge&labelColor=000000&color=ffffff&logo=googlemaps&logoColor=000000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full+Stack+Applications;RAG+Pipelines+%7C+LLM+Integration+%7C+Vector+Search;Real-Time+Computer+Vision+%26+Anomaly+Detection;MERN+Stack+%7C+Flask+%7C+Firebase+%7C+Docker;Actively+Seeking+Full-Time+%26+Internship+Roles" />
 </p>
 
 <p align="center">
-  <a href="https://bonthavijay.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000"/>
-  </a>
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-white?style=for-the-badge&labelColor=000000"/>
   &nbsp;
-  <a href="https://linkedin.com/in/bonthavijay">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/>
-  </a>
+  <img src="https://img.shields.io/badge/CGPA-8.3%20%2F%2010-white?style=for-the-badge&labelColor=000000"/>
   &nbsp;
-  <a href="mailto:bonthavijay1807@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"/>
-  </a>
+  <img src="https://img.shields.io/badge/VVITU-Guntur%2C%20AP-white?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=white"/>
   &nbsp;
-  <a href="https://github.com/Vijay-1807">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<p align="center">
+  <a href="https://vijaybontha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vijaybontha.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Vijay-1807&style=flat-square&color=000000&label=VIEWS"/>
+  <a href="https://www.linkedin.com/in/bonthavijay"><img src="https://img.shields.io/badge/LinkedIn-bonthavijay-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Vijay-1807?style=flat-square&color=000000&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=white"/>
+  <a href="mailto:bonthavijay1807@gmail.com"><img src="https://img.shields.io/badge/Email-bonthavijay1807-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/Vijay-1807"><img src="https://img.shields.io/badge/GitHub-Vijay--1807-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Vijay-1807&style=flat-square&color=000000&label=Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Vijay-1807?style=flat-square&color=000000&labelColor=000000&label=Followers&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## ◈ About
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Vijay-1807&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=777777&icon_color=ffffff&include_all_commits=true&count_private=false&ring_color=ffffff"/>
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Vijay-1807&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true"/>
 
-**Bontha Vijay** is an AI & Data Science engineer with a proven track record building production-grade, AI-powered systems. With hands-on internship experience at **NexTurn India** and **Infosys Springboard**, he bridges the gap between cutting-edge AI research and scalable full stack delivery.
+**Bontha Vijay** is an AI & Full Stack Engineer with real internship experience at **NexTurn India** and **Infosys Springboard**, currently completing B.Tech in AI & Data Science at VVITU (CGPA: 8.3).
 
-His work spans RAG pipelines with LLM integration, real-time computer vision with custom YOLO models, civic technology platforms, and legal AI tooling — each shipped end-to-end from architecture to deployment.
+He builds production-grade systems at the intersection of AI engineering and full stack development — from **RAG pipelines** with LLM integration and multilingual interfaces, to **real-time computer vision** systems running at 30 FPS with custom-trained YOLO models.
 
-He operates at the intersection of **AI Engineering**, **Full Stack Development**, and **Data Science**, with strong command of the modern Python and JavaScript ecosystems. He actively uses AI-native developer tooling — Cursor, Claude Code, and GitHub Copilot — reflecting an engineering workflow built for velocity and quality.
+His engineering workflow is AI-native: daily use of **Cursor, Claude Code, and GitHub Copilot** for accelerated development cycles. He writes clean, scalable code across the full stack — Python, React.js, Node.js, Flask, MongoDB, and Firebase.
 
-**CGPA: 8.3 / 10 · VVITU, Guntur · Expected June 2026**
+**Actively seeking** AI Engineering, Full Stack, and Data Science roles.
 
 <br/>
 
-> **⟡ Open To** — AI Engineering · Full Stack · Data Science Internships · Research Roles · Open Source
+**⟡ Open To** — AI/ML Engineering · Full Stack Development · Data Science · Research Roles
 
 <br clear="right"/>
 
@@ -62,34 +54,28 @@ He operates at the intersection of **AI Engineering**, **Full Stack Development*
 
 ## ◈ Experience
 
-### Full Stack Web Development Intern &nbsp;·&nbsp; **NexTurn India Private Limited** *(Remote)*
+### Full Stack Web Development Intern &nbsp;·&nbsp; **NexTurn India Pvt. Ltd.** *(Remote)*
 **Feb 2026 – May 2026**
 
-- Developed end-to-end web applications using **Java Full Stack** technologies with robust backend services and responsive UIs
-- Collaborated on modular, secure API integrations in a fully remote, distributed team environment
-- Contributed to reusable component libraries and enforced clean architecture patterns across services
+- Built end-to-end Java Full Stack web applications with robust backend services and responsive UIs
+- Delivered secure, modular API integrations in a distributed remote team environment
 
 <p>
-  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-000?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Modular%20Architecture-000?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Remote%20Collaboration-000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-000?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Modular%20Architecture-000?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
-
-<br/>
 
 ### Full Stack Developer Intern &nbsp;·&nbsp; **Infosys Springboard** *(Virtual)*
 **Oct 2025 – Dec 2025**
 
-- Built a full-stack **civic engagement platform** supporting petitions, polls, and community-driven workflows
-- Architected a scalable web application using **React, Node.js, and MongoDB** across a collaborative cross-functional team
-- Delivered production-ready features within sprint cycles; managed source control and code reviews via GitHub
+- Developed a full-stack civic engagement platform with petitions, polls, and community workflows
+- Shipped production features using **React, Node.js, MongoDB** within sprint cycles
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-000?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Civic%20Tech-000?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-000?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -100,37 +86,37 @@ He operates at the intersection of **AI Engineering**, **Full Stack Development*
 <summary><strong>⬡ &nbsp;LegalBuddy — AI-Powered Legal Assistant</strong></summary>
 <br/>
 
-An intelligent legal assistant that ingests legal documents, parses them through a **RAG (Retrieval-Augmented Generation) pipeline**, and surfaces contextually accurate case insights with multilingual support. Reduces legal document analysis time from hours to minutes.
+Intelligent legal assistant that processes legal documents through a **RAG pipeline**, surfaces contextually accurate case insights, and supports multilingual real-time queries via Google Gemini API.
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Python · RAG · Google Gemini API · React.js · Node.js · Firebase |
-| **AI Core** | Retrieval-Augmented Generation with vector database semantic search |
+| **AI Core** | Retrieval-Augmented Generation · Vector DB semantic search |
 | **Performance** | Significantly reduced legal document analysis turnaround time |
-| **Features** | Real-time multilingual interface · document processing APIs |
-| **Scale** | End-to-end pipeline from document ingestion to contextual insight delivery |
+| **Security** | JWT-protected endpoints · input validation · rate limiting |
+| **Impact** | Multilingual AI legal assistant accessible across language barriers |
 | **Repository** | [github.com/Vijay-1807](https://github.com/Vijay-1807) |
 
-The system uses **Google Gemini API** as the LLM backbone, with semantic search powered by a vector database for high-relevance retrieval. A real-time multilingual frontend enables access across language barriers. Backend APIs handle document parsing, chunking, embedding, and contextual query answering — fully decoupled from the front-end.
+Gemini API provides LLM inference; vector database handles embedding and semantic retrieval. Fully decoupled backend APIs manage document parsing, chunking, and contextual Q&A.
 
 </details>
 
 <details>
-<summary><strong>⬡ &nbsp;Cam4U — Real-Time Object & Anomaly Detection System</strong></summary>
+<summary><strong>⬡ &nbsp;Cam4U — Real-Time Object & Anomaly Detection</strong></summary>
 <br/>
 
-A production-grade AI surveillance system leveraging a custom-trained **YOLO26m** model for object detection and **I3D** for temporal anomaly recognition. Built for real-time multi-feed monitoring with GPU-optimised inference at **30 FPS**.
+GPU-optimised AI surveillance system using custom-trained **YOLO26m** for object detection and **I3D** for temporal anomaly recognition. Runs at **30 FPS** with 82.1% mAP50 and 98.95% recall.
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Python · YOLO26m · I3D · React.js · Flask · MongoDB · Groq API |
-| **Performance** | **82.1% mAP50** and **98.95% recall** on custom trained models |
-| **Inference Speed** | 30 FPS on GPU · CUDA-optimised inference pipeline |
-| **Features** | IP & USB camera management · AI chatbot · multi-channel alerts · email notifications |
-| **Scale** | Full-stack dashboard · real-time video stream processing |
+| **Performance** | **82.1% mAP50** · **98.95% recall** on custom trained models |
+| **Inference** | 30 FPS on GPU · CUDA-optimised pipeline |
+| **Security** | Role-gated dashboard · multi-channel alert system |
+| **Impact** | Real-time threat detection with IP/USB camera management |
 | **Repository** | [github.com/Vijay-1807](https://github.com/Vijay-1807) |
 
-Custom-trained YOLO26m handles object classification and localisation; I3D processes temporal video segments for anomaly recognition. The full-stack React dashboard provides live feed management, alert configuration, and incident review. **Groq API** powers the integrated AI chatbot for operator assistance. Multi-channel alerting covers in-app, email, and webhook notifications.
+Groq API powers the integrated AI operator chatbot. Multi-channel alerting covers in-app, email, and webhook notifications. Full-stack React dashboard provides live feed management and incident review.
 
 </details>
 
@@ -139,48 +125,36 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 ## ◈ Tech Stack
 
 **Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,sql&theme=dark"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,sql&theme=dark"/></p>
 
 **Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,framer&theme=dark"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,framer&theme=dark"/></p>
 
 **Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql&theme=dark"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql&theme=dark"/></p>
 
 **AI / ML & Data**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-000000?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq%20API-000000?style=flat-square&logo=lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipeline-000000?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-000000?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-000?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-000?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20API-000?style=flat-square&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-000?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-000?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-000?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
-**Cloud, DevOps & Tooling**
-
+**DevOps & Tooling**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CUDA-000?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-000?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -191,13 +165,12 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 
 | Domain | Proficiency | Key Work |
 |--------|-------------|----------|
-| **RAG & LLM Integration** | ████████░░ Advanced | LegalBuddy · Gemini API · Vector DB semantic search |
-| **Computer Vision** | ████████░░ Advanced | Cam4U · Custom YOLO26m · I3D · 82.1% mAP50 |
-| **Machine Learning** | ███████░░░ Proficient | Scikit-learn · classification · regression · EDA |
-| **Deep Learning** | ██████░░░░ Intermediate | TensorFlow · Keras · CNNs · temporal models (I3D) |
-| **Data Analytics** | ███████░░░ Proficient | Pandas · NumPy · Power BI · Tableau · statistical modelling |
-| **AI-Native Development** | ████████░░ Advanced | Cursor · Claude Code · GitHub Copilot · Antigravity |
-| **NLP & Text Processing** | █████░░░░░ Developing | Document parsing · chunking · embedding pipelines |
+| **RAG & LLM Integration** | ████████░░ Advanced | LegalBuddy · Gemini API · Vector DB |
+| **Computer Vision** | ████████░░ Advanced | Cam4U · YOLO26m · I3D · 82.1% mAP50 |
+| **Machine Learning** | ███████░░░ Proficient | Scikit-learn · classification · EDA |
+| **Deep Learning** | ██████░░░░ Intermediate | TensorFlow · CNNs · temporal models |
+| **Data Analytics** | ███████░░░ Proficient | Pandas · Power BI · Tableau |
+| **AI-Native Dev** | ████████░░ Advanced | Cursor · Claude Code · Copilot |
 
 </div>
 
@@ -206,84 +179,33 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 ## ◈ Certifications
 
 **Microsoft**
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals%20(AI--900)-000000?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=111111"/>
-</p>
+<p><img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals%20AI--900-000000?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=111111"/></p>
 
 **Harvard University**
-
 <p>
-  <img src="https://img.shields.io/badge/CS50X%20–%20Intro%20to%20Computer%20Science-000000?style=for-the-badge&logo=edx&logoColor=white&labelColor=111111"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CS50P%20–%20Programming%20in%20Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
+<img src="https://img.shields.io/badge/CS50X%20–%20Intro%20to%20Computer%20Science-000000?style=for-the-badge&logo=edx&logoColor=white&labelColor=111111"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CS50P%20–%20Programming%20in%20Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=111111"/>
 </p>
 
 **NPTEL**
-
-<p>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-000000?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=111111"/>
-</p>
+<p><img src="https://img.shields.io/badge/Cloud%20Computing-000000?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=111111"/></p>
 
 **Universidad Galileo**
-
-<p>
-  <img src="https://img.shields.io/badge/Java%20Programming%20Fundamentals-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111111"/>
-</p>
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🎓 **B.Tech AI & DS — CGPA 8.3** | VVITU, Guntur · Expected June 2026 |
-| 🏢 **NexTurn India Intern** | Java Full Stack · Remote · Feb–May 2026 |
-| 🏛️ **Infosys Springboard Intern** | Full Stack · Civic Tech Platform · Oct–Dec 2025 |
-| 🤖 **LegalBuddy** | Production RAG pipeline · Gemini API · multilingual AI legal assistant |
-| 📷 **Cam4U** | 82.1% mAP50 · 98.95% recall · 30 FPS real-time surveillance AI |
-| 🏅 **Microsoft Azure AI-900** | Certified Azure AI Fundamentals |
-| 🏅 **Harvard CS50X + CS50P** | Two Harvard certifications in CS & Python |
-| ⚡ **AI-Native Workflow** | Daily use of Cursor, Claude Code, GitHub Copilot, Antigravity |
-
-</div>
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/Vijay-1807">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=111111"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/bonthavijay">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=111111"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/bonthavijay1807">
-    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=111111"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/bonthavijay">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white&labelColor=111111"/>
-  </a>
-</p>
+<p><img src="https://img.shields.io/badge/Java%20Programming%20Fundamentals-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111111"/></p>
 
 ---
 
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay-1807&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=777777&icon_color=ffffff&include_all_commits=true&count_private=false" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-1807&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=777777&layout=compact&count_private=false" height="175"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijay-1807&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=false"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-1807&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&layout=compact&count_private=false&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vijay-1807&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=777777&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="680"/>
+  <img src="https://streak-stats.demolab.com?user=Vijay-1807&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="600"/>
 </p>
 
 ---
@@ -291,7 +213,7 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-1807&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-1807&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
 </p>
 
 ---
@@ -299,7 +221,7 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay-1807&bg_color=000000&color=ffffff&line=ffffff&point=555555&area=true&area_color=222222&hide_border=true&title_color=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay-1807&bg_color=0d1117&color=ffffff&line=ffffff&point=555555&area=true&area_color=1a1a2e&hide_border=true&title_color=ffffff&custom_title=Bontha%20Vijay's%20Contribution%20Graph" width="100%"/>
 </p>
 
 ---
@@ -307,7 +229,11 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vijay-1807/Vijay-1807/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </p>
 
 ---
@@ -317,42 +243,35 @@ Custom-trained YOLO26m handles object classification and localisation; I3D proce
 ```yaml
 engineer:
   name: Bontha Vijay
-  degree: B.Tech — Artificial Intelligence & Data Science
-  institution: VVITU, Guntur · CGPA 8.3 · 2022–2026
+  degree: B.Tech — AI & Data Science · CGPA 8.3 · 2022–2026
+  status: Actively Seeking Full-Time & Internship Roles
 
-roles:
-  primary: AI Engineer · Full Stack Developer · Data Scientist
-  seeking: Internships · Research Roles · Open Source Collaborations
+roles_targeting:
+  - AI / ML Engineer
+  - Full Stack Developer (MERN / Python)
+  - Data Scientist / Analyst
 
 learning:
   - Advanced RAG architectures and multi-agent LLM workflows
-  - Cloud-native AI deployment on Azure and AWS
-  - MLOps — model versioning, monitoring, and CI/CD pipelines
-  - System design for distributed, high-throughput applications
+  - Cloud-native AI deployment on Azure
+  - MLOps — model versioning, monitoring, CI/CD
+  - System design for distributed applications
 
 building:
-  - AI-powered full stack web applications with LLM backends
-  - Real-time computer vision pipelines (YOLO · I3D · GPU inference)
-  - Semantic search systems with vector database integration
-  - Data analytics dashboards (Power BI · Tableau · custom React UIs)
-
-exploring:
-  - Multi-modal AI (vision + language)
-  - Vector databases and embedding strategy (Pinecone, Chroma, Weaviate)
-  - Containerised model serving with Docker and Kubernetes
-  - Agentic AI frameworks (LangChain, AutoGen)
+  - AI-powered full stack apps with LLM backends
+  - Real-time computer vision pipelines (YOLO · CUDA)
+  - Semantic search systems with vector databases
 
 tools_of_choice:
   ai_dev: [Cursor, Claude Code, GitHub Copilot, Antigravity]
-  stack: [Python, React.js, Node.js, Flask, MongoDB, Firebase, Docker]
-  ai_ml: [Gemini API, Groq API, RAG, YOLO, TensorFlow, Scikit-learn]
+  stack:  [Python, React.js, Node.js, Flask, MongoDB, Firebase]
+  ai_ml:  [Gemini API, Groq API, RAG, YOLO, TensorFlow]
 
 open_to:
-  - AI / ML Engineering Internships
-  - Full Stack Development Internships
-  - Data Science & Analytics Roles
+  - AI / ML Engineering Roles
+  - Full Stack Development Roles
+  - Data Science & Analytics Positions
   - Research Collaborations (LLMs, Computer Vision)
-  - Innovative Open Source Projects
 ```
 
 ---
@@ -365,7 +284,7 @@ open_to:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/bonthavijay">
+  <a href="https://www.linkedin.com/in/bonthavijay">
     <img src="https://img.shields.io/badge/LinkedIn-bonthavijay-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"/>
   </a>
 </p>
@@ -375,22 +294,17 @@ open_to:
   </a>
 </p>
 <p align="center">
-  <a href="https://bonthavijay.dev">
-    <img src="https://img.shields.io/badge/Portfolio-bonthavijay.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/>
-  </a>
-</p>
-<p align="center">
-  <a href="tel:+917286973788">
-    <img src="https://img.shields.io/badge/Phone-%2B91%207286973788-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111"/>
+  <a href="https://vijaybontha.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-vijaybontha.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"The best code is the code that ships — and scales."</em>
+  <em>"Ship fast. Build right. Scale further."</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
 </p>
